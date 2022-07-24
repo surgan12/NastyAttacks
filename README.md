@@ -1,5 +1,7 @@
 # Distilling the Undistillable: Learning from a Nasty Teacher
 ---
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
 Official code release for
 "Distilling the Undistillable: Learning from a Nasty Teacher"
 Surgan Jandial, Yash Khasbage, Arghya Pal, Vineeth N Balasubramanian, and Balaji Krishnamurthy.
