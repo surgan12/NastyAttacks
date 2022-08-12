@@ -1,4 +1,5 @@
-# Distilling the Undistillable: Learning from a Nasty Teacher (Releasing Soon)
+# Distilling the Undistillable: Learning from a Nasty Teacher 
+[Releasing Soon]
 ---
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
