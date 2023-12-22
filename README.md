@@ -14,7 +14,7 @@ Surgan Jandial, Yash Khasbage, Arghya Pal, Vineeth N Balasubramanian, and Balaji
 * We examine its defense and demonstrate successful extraction of information even in its presence. Specifically, we analyze Nasty Teacher from two different directions and subsequently leverage them carefully to develop simple yet efficient methodologies, named as HTC and SCM, which increase the learning from Nasty Teacher by upto 68.63% on standard datasets. 
 
 
-We acknowledge there can be undesirable applications of this work, and thus request you to fill this [form](https://forms.gle/Z41vPUptf7QUVM1c8) for code access. 
+We acknowledge that there can be undesirable applications of this work, and thus request you to fill this [form](https://forms.gle/Z41vPUptf7QUVM1c8) for code access. 
 
 
 ## References
